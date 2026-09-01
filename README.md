@@ -19,3 +19,159 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alamgir121&show_icons=true&locale=en" alt="alamgir121" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamgir121&" alt="alamgir121" /></p>
+
+
+
+
+
+
+
+
+
+<!-- ======================= BANNER ======================= -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Md%20Alamgir%20Hossain&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+</div>
+
+<!-- ======================= INTRO ======================= -->
+
+<h1 align="center">Hi 👋, I'm Md Alamgir Hossain</h1>
+
+<h3 align="center">
+  Aspiring Full Stack Developer | Exploring Web Development & AI
+</h3>
+
+<p align="center">
+  <a href="https://github.com/alamgir121">
+    <img src="https://komarev.com/ghpvc/?username=alamgir121&label=Profile%20Views&color=2563EB&style=flat" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science graduate from **North South University** with a strong interest in software development and modern web technologies.
+
+I have basic knowledge of **Machine Learning** and **Deep Learning**, and currently I'm focusing on becoming a professional **Full Stack Developer**.
+
+I'm passionate about learning new technologies, building projects, solving programming problems, and continuously improving my development skills.
+
+### 🚀 Currently
+
+- 🌱 Learning **Full Stack Web Development**
+- ⚛️ Exploring **React.js** and modern frontend development
+- 🟦 Practicing **JavaScript & TypeScript**
+- 🟢 Exploring **Node.js & Backend Development**
+- 🗄️ Learning databases and API development
+- 🤖 Exploring **Machine Learning & Deep Learning**
+- 🔨 Building projects to improve my practical development skills
+- 📚 Continuously learning new technologies and best practices
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+</p>
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=alamgir121&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=alamgir121&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamgir121&layout=compact&theme=tokyonight&hide_border=true" 
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/alamgir121" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-alamgir-hossain-3805433aa/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+<a href="mailto:alamgirhussain5020@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+</a>
+
+</p>
+
+---
+
+## 🎯 My Goals
+
+- 🎯 Become a professional Full Stack Developer
+- 🚀 Build real-world web applications
+- 🧠 Strengthen my JavaScript & TypeScript skills
+- ⚛️ Become proficient in React and Next.js
+- 🔧 Develop strong backend development skills
+- 🤖 Continue exploring Machine Learning & AI
+
+---
+
+<div align="center">
+
+### 💡 "Learn. Build. Improve. Repeat."
+
+Thanks for visiting my profile! 😊
+
+</div>
+
+<!-- ======================= FOOTER ======================= -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" />
+</div>

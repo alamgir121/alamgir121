@@ -2,9 +2,8 @@
 
 <!-- ======================= BANNER ======================= -->
 <p align="center">
-  <img src="
-https://github.com/alamgir121/alamgir121/blob/0fae860f8a499d78a472e4d41597d1140dc75305/banner.jpg" alt="Alamgir Hossain Banner" width="100%">
-</p>
+  <img src="https://github.com/alamgir121/alamgir121/blob/main/banner.jpg?raw=true" alt="Alamgir Hossain Banner" width="100%">
+</p>>
 
 
 ## 👨‍💻 About Me

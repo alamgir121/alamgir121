@@ -3,7 +3,7 @@
 <!-- ======================= BANNER ======================= -->
 <p align="center">
   <img src="https://github.com/alamgir121/alamgir121/blob/main/banner.jpg?raw=true" alt="Alamgir Hossain Banner" width="100%">
-</p>>
+</p>
 
 
 ## 👨‍💻 About Me

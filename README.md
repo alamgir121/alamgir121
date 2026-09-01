@@ -4,15 +4,30 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Md%20Alamgir%20Hossain&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 </div>
 
+## 👨‍💻 About Me
+
+I'm a Computer Science graduate from **North South University** with a strong interest in software development and modern web technologies.
+
+I have basic knowledge of **Machine Learning** and **Deep Learning**, and currently I'm focusing on becoming a professional **Full Stack Developer**.
+
+I'm passionate about learning new technologies, building projects, solving programming problems, and continuously improving my development skills.
+
+### 🚀 Currently
+
+- 🌱 Learning **Full Stack Web Development**
+- ⚛️ Exploring **React.js** and modern frontend development
+- 🟦 Practicing **JavaScript & TypeScript**
+- 🟢 Exploring **Node.js & Backend Development**
+- 🗄️ Learning databases and API development
+- 🤖 Exploring **Machine Learning & Deep Learning**
+- 🔨 Building projects to improve my practical development skills
+- 📚 Continuously learning new technologies and best practices
+
+---
 
 
 
-<h1 align="center"> I'm Md Alamgir Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Full stack web Engineer**
-
-- 📫 How to reach me **alamgirhussain5020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

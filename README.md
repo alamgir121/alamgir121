@@ -31,15 +31,6 @@ I'm passionate about learning new technologies, building projects, solving progr
 - 🤖 Exploring **Machine Learning & Deep Learning**
 - 📚 Continuously learning new technologies and best practices
 
----
-- 🟦 Practicing **JavaScript & TypeScript**
-- 🟢 Exploring **Node.js & Backend Development**
-- 🗄️ Learning databases and API development
-- 🤖 Exploring **Machine Learning & Deep Learning**
-- 🔨 Building projects to improve my practical development skills
-- 📚 Continuously learning new technologies and best practices
-
----
 
 
 

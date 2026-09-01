@@ -1,10 +1,11 @@
 
 
 <!-- ======================= BANNER ======================= -->
+<p align="center">
+  <img src="
+https://github.com/alamgir121/alamgir121/blob/0fae860f8a499d78a472e4d41597d1140dc75305/banner.jpg" alt="Alamgir Hossain Banner" width="100%">
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Md%20Alamgir%20Hossain&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
-</div>
 
 ## 👨‍💻 About Me
 

@@ -1,5 +1,27 @@
+<!-- ======================= BANNER ======================= -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Md%20Alamgir%20Hossain&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+</div>
+
+<!-- ======================= INTRO ======================= -->
 
 <h1 align="center">Hi 👋, I'm Md Alamgir Hossain</h1>
+
+<h3 align="center">
+  Aspiring Full Stack Developer | Exploring Web Development & AI
+</h3>
+
+<p align="center">
+  <a href="https://github.com/alamgir121">
+    <img src="https://komarev.com/ghpvc/?username=alamgir121&label=Profile%20Views&color=2563EB&style=flat" />
+  </a>
+</p>
+
+---
+
+
+<h1 align="center"> I'm Md Alamgir Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Full stack web Engineer**

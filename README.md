@@ -1,3 +1,28 @@
+<!-- ======================= PROFILE BANNER ======================= -->
+
+<p align="center">
+  <img 
+    src="./banner.png" 
+    alt="Md Alamgir Hossain Banner" 
+    width="100%"
+  />
+</p>
+
+<!-- ======================= NAME & DESIGNATION ======================= -->
+
+<h1 align="center">
+  Hi 👋, I'm Md Alamgir Hossain
+</h1>
+
+<h3 align="center">
+  Aspiring Full Stack Developer | Frontend Developer | ML Enthusiast
+</h3>
+
+<p align="center">
+  🇧🇩 Bangladesh
+</p>
+
+
 <!-- ======================= BANNER ======================= -->
 
 <div align="center">
